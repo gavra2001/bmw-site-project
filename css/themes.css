@@ -1,0 +1,86 @@
+		.dark-custom
+		{
+			color:#343a40;
+		}
+		.darker-custom
+		{
+			color:#2b3035;
+		}
+		.bg-dark-custom 
+		{
+			background-color: #343a40;
+		}
+		.bg-almost-black-custom
+		{
+			background-color:#101010;
+		}
+		.bg-black-custom
+		{
+			background-color:black
+		}
+		.primary-custom
+		{
+			color:#0166b1;
+		}
+		.border-white-custom
+		{
+			border-color: white;
+		}
+		.white-text-custom
+		{
+			color: white;
+		}
+		.fa-facebook-f 
+		{
+			background: -webkit-gradient(linear, right top, right bottom, from(rgb(25, 220, 255)), to(rgb(30, 100, 255)));
+			-webkit-background-clip: text;
+			-webkit-text-fill-color: transparent;
+		}
+		.fa-instagram 
+		{
+			background: -webkit-gradient(linear, right top, left bottom, from(rgb(150, 50, 200)), to(rgb(220, 100, 80)));
+			-webkit-background-clip: text;
+			-webkit-text-fill-color: transparent;
+		}
+		.fa-twitter 
+		{
+			background: -webkit-gradient(linear, right top, right bottom, from(rgb(0, 172, 237)), to(rgb(0, 172, 237)));
+			-webkit-background-clip: text;
+			-webkit-text-fill-color: transparent;
+		}
+		.fa-youtube 
+		{
+			background: -webkit-gradient(linear, right top, right bottom, from(rgb(255, 0, 0)), to(rgb(255, 0, 0)));
+			-webkit-background-clip: text;
+			-webkit-text-fill-color: transparent;
+		}
+		@media (min-width: 768px) 
+		{
+			.bd-placeholder-img-lg 
+			{
+				font-size: 3.5rem;
+			}
+		}
+		.bd-placeholder-img 
+		{
+			font-size: 1.125rem;
+			text-anchor: middle;
+			-webkit-user-select: none;
+			-moz-user-select: none;
+			-ms-user-select: none;
+			user-select: none;
+		}
+		nav 
+		{
+			background: linear-gradient(black, #101010);
+		}
+		footer
+		{
+			background: linear-gradient(black,#080808);
+		}
+		.btn-outline-primary
+		{
+			color: white;
+			background-color: #0166b1;
+			font-weight: bold;
+		}
