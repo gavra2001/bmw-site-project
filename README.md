@@ -21,9 +21,9 @@ Creating this website was a significant learning experience. During the developm
 ## Project Setup
 To view the project locally, follow these steps:
 1. Clone the repository:
-`git clone https://github.com/gavra2001/site-project.git`
+`git clone https://github.com/gavra2001/bmw-site-project.git`
 2. Navigate to the project directory:
-`cd site-project`
+`cd bmw-site-project`
 3. Open the `index.html` file in your preferred web browser to view the site.
 
 ## Future Improvements
