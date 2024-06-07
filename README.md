@@ -1,4 +1,6 @@
 # BMW Custom Website Project
+![image](https://github.com/gavra2001/site-project/assets/51299899/f2481350-ab13-4ffa-863c-b0eb99ec999a)
+
 ## Overview
 Welcome to the repository for my custom-made website for BMW, created as a project for my web design class back in 2021. This project was an integral part of my learning journey in web development and design, where I explored various aspects of creating a functional and visually appealing website.
 
